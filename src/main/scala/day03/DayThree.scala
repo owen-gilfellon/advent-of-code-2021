@@ -1,7 +1,5 @@
 package day03
 
-import day02.DayTwo.Direction.{Down, Forward, Up}
-
 import scala.annotation.tailrec
 import scala.io.Source
 
